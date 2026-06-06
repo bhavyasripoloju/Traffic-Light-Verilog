@@ -50,6 +50,8 @@ s1 (Green) → s2 (Yellow) → s3 (Red) → s1 (Green)
 ## Simulation
 
 The design was simulated using GTKWave.
+<img width="1200" height="1600" alt="gtkwaves of traffic light" src="https://github.com/user-attachments/assets/ab98af59-0921-4ee9-8c8f-a6a25b846c2b" />
+
 
 ### Expected Sequence
 
